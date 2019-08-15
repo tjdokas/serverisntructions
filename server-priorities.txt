@@ -1,0 +1,14 @@
+after putty ssh, follow this procedue
+1. mounting disk | https://www.youtube.com/watch?v=sH6r7bwWuUw&t=172s
+2. installing desktop ui and modifications (i3, etc) | https://www.reddit.com/r/unixporn/comments/cq6u1x/i3_aquamarine/
+3. installing remote connect and make sure it fuckin works | https://askubuntu.com/questions/234856/unable-to-do-remote-desktop-using-xrdp
+4. installing docker | https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+5. installing web hosting services
+6. installing web hosting software
+7. installing web hosting monitoring 
+
+additional items after all those installations
+
+-vpn hosting
+-steam-cache
+-use the hosting server as a backup for these things. maybe maybe maybe make it a way to install all these off of a fresh ubuntu thing? (maybe possible through github)
